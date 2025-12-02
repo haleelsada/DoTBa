@@ -1,5 +1,7 @@
 # Dots and Boxes
-
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/06374eae-f277-4361-9df5-b77a5f2e9803" alt="animated"/>
+</p>
 A Dots and Boxes game framework where you can play against an AI agents in C++ or Python or build one and play against it or fight the bots in a web interface.
 
 ## Agent 1
