@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -Wl,--dependency-file=CMakeFiles/agent.dir/link.d CMakeFiles/agent.dir/src/submission/agent.cpp.o CMakeFiles/agent.dir/src/controller.cpp.o CMakeFiles/agent.dir/src/run.cpp.o -o agent  cpp_board_lib/libboard_lib.a
